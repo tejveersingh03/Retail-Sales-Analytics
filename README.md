@@ -1,12 +1,8 @@
 # Retail Sales Analytics Platform
 
-An end-to-end Data Analytics project using Python, MySQL, Excel, and Power BI.
+An end-to-end Data Analytics project using Python, MySQL, Excel, Power BI, Git, and GitHub.
 
-## 📌 Project Overview
-
-This project analyzes retail sales data to generate business insights using Python, SQL, Excel, and Power BI. It demonstrates the complete Data Analytics workflow from data cleaning to interactive dashboard creation.
-
-## 🛠️ Tools & Technologies
+## 🚀 Tools Used
 
 - Python
 - Pandas
@@ -17,6 +13,28 @@ This project analyzes retail sales data to generate business insights using Pyth
 - Git
 - GitHub
 
-## 🚀 Project Status
+## 📂 Project Structure
+
+```
+Retail-Sales-Analytics
+│── data
+│   ├── raw
+│   └── cleaned
+│
+│── python
+│── sql
+│── dashboard
+│── powerbi
+│── reports
+│── notebooks
+│── docs
+│── images
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+## 📌 Project Status
 
 🚧 In Progress
